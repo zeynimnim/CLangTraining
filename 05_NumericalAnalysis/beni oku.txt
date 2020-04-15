@@ -1,0 +1,6 @@
+2. 3. 4. ve 5. kodlarda sin, cos, log gibi ifadeler içeren fonksiyonlar için 
+fonksiyonun kodun içinde deðiþtirilmesi gerekmektedir. Bu nedenle fonksiyon kullanýcýdan
+ input olarak alýnmamaktadýr. Hem zamandan tasarruf edilmekte hem de kullanýcýya kolaylýk 
+ve net sonuçlar saðlanmaktadýr.
+Okuduðunuz için teþekkürler umarým el yapýmý kodlarýmý beðenirsiniz :)
+Zeynep Daniþ 17011065
